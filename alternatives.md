@@ -1,0 +1,1 @@
+As of this writing, I haven't done any research on technical alternatives. I do have a basic outline of what you can do, even if you don't trust any technology at all, in a [seperate document](manual-process.md) in this repo.
